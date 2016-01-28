@@ -1,0 +1,1 @@
+This script was so powerfull and no database needed to install this script so easy to allow user to leave comments on you web page download free php comment script or programe which support user to leave comment on your website or web pages this script was designed in php no mysql database needed
